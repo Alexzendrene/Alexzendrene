@@ -4,9 +4,12 @@
 </p>
 
 <div align="center">
-<h1> नमस्ते, Myself SHRUTI MISHRA </h1>
-<h2>💫 About Me</h2>
+  <h1>
+     नमस्ते, <img src="https://user-images.githubusercontent.com/74038190/216656982-82fce1e6-72ff-48aa-bbcd-5270671adeaa.gif" alt="Your Image" style="width: 50px; height: auto; margin-right: 20px; vertical-align: middle;"> Myself SHRUTI MISHRA 
+  </h1>
+  <h2>💫 About Me</h2>
 </div>
+
 
 I'm an enthusiastic software developer with an academic background from Gautam Buddha University and the Indian Institute of Technology Madras. My expertise includes a wide range of technologies and programming languages, including HTML, CSS, Flask, Python, JavaScript, C++, C, OpenCV, BeautifulSoup, NumPy, Pandas, Face recognition, Jinja2, SQLite, SQLAlchemy, PostgreSQL, Java, MySQL, Pygame, and Prolog, among others.
 
@@ -147,10 +150,13 @@ Feel free to connect with me to discuss tech-related topics or collaborate on ex
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alexzendrene&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="210" alt="streak graph" /> <br>
+    
   <img src="https://github-readme-stats.vercel.app/api?username=alexzendrene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="221" alt="stats graph" /> <br>
-  <div align="center">
+  
+<div align="center">
   <img height="" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"  />
 </div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexzendrene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
