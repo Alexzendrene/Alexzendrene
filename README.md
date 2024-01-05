@@ -170,7 +170,7 @@ Feel free to connect with me to discuss tech-related topics or collaborate on ex
 
 ###
 
-## ✍️ Random Dev Quote
+## 🖋️ Random Dev Quote
 <br clear="both">
 
 <div align="center">
